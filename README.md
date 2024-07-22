@@ -56,7 +56,6 @@ Runs ESLint to lint the project files and ensures code quality. The script inclu
 ## Dependencies
 This project uses the following main dependencies:
 - React: A JavaScript library for building user interfaces.
-- React DOM: Provides DOM-specific methods that can be used at the top level of your app.
 - Vite: A fast build tool that leverages the power of native ES modules.
 - GSAP: A JavaScript library for creating high-performance animations.
 - React Three Fiber: A React renderer for Three.js.
